@@ -1,0 +1,43 @@
+p, h2 {
+    font-family: Open Sans, sans-serif;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 64px;
+    font-family: Montserrat, sans-serif;
+    letter-spacing: 20px;
+    /* text-transform: capitalize; */
+    background-color: #febcfa;
+    
+    /* margin: 120px 40px 120px 40px; */
+    
+    margin: 120px 40px;
+    /* margin-left: 40px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-right: 40px; */
+
+    padding: 20px 40px;
+}
+
+h2{
+    color: #32323278;
+    font-size: 1.5rem;
+}
+
+p{
+    color: #296c0a78;
+    font-size: 1rem;
+}
+
+.first_paragraph {
+    color: #1023c778;
+    font-weight: 600;
+}
+
+.headings-container{
+    text-transform: uppercase;
+    background-color: yellow;
+    margin-left: 80px;
+}
